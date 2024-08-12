@@ -18,7 +18,7 @@
     "@vercel/blob": "^0.23.4",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
-    "data-fns": "^1.1.0",
+    "date-fns": "^3.6.0",
     "lucide-react": "^0.427.0",
     "markdown-draft-js": "^2.4.0",
     "nanoid": "^5.0.7",
@@ -34,6 +34,7 @@
     "zod": "^3.23.8"
   },
   "devDependencies": {
+    "@types/date-fns": "^2.5.3",
     "@types/markdown-draft-js": "^2.2.7",
     "@types/node": "^20",
     "@types/react": "^18",
