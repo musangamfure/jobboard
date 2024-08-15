@@ -46,7 +46,7 @@ export default async function JobResults({
     },
   });
   return (
-    <div className="grow space-x-4">
+    <div className="grow space-y-4">
       {jobs.map((job) => (
         <JobListItem key={job.id} job={job} />
       ))}
