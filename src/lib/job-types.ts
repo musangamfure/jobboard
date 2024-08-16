@@ -8,4 +8,4 @@ export const jobTypes = [
   "Volunteer",
 ];
 
-export const locattionTypes = ["Remote", "on-site", "Hybrid"];
+export const locationTypes = ["Remote", "on-site", "Hybrid"];
